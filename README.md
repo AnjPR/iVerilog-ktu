@@ -1,2 +1,3 @@
-# iVerilog-ktu
-Icarus Verilog programs for S4 Digital Lab KTU
+# Icarus Verilog 
+## Icarus Verilog programs for S4 Digital Lab KTU
+
