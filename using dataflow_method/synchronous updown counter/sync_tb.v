@@ -5,7 +5,7 @@ reg[0:4] counter;
 wire Y0, Y1, Y2;
 sync i(Y0, Y1, Y2, clock, clear, enable);//calling the module of t flipflop
 initial begin
-	clock = 0; clear=1; counter = 0; enable = 1;//initially ingane aaan
+	clock = 0; clear=1; counter = 0; enable = 1;
 	#1 clear=0;
 	while(counter <= 30) begin
 		#1 counter =counter+1;
