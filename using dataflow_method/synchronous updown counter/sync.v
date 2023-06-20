@@ -22,9 +22,9 @@ end
 
 always @(clock) begin
 	if(up == 1 && {Q2, Q1, Q0} == 3'b111)
-		up = 0;// ie, 111 ethiyaal pinne count downwards
+		up = 0;
 	else if(up == 0 && {Q2, Q1, Q0} == 3'b000)
-		up = 1;//ie, 000 ethiyaal pinne count upwards
+		up = 1;
 end
 
 endmodule
