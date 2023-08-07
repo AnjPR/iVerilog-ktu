@@ -1,5 +1,4 @@
-# Icarus Verilog 
-## Icarus Verilog programs for S4 CS Digital Lab KTU
+# All Icarus Verilog programs for S4 CS Digital Lab KTU (2019 scheme)
 #### • [Basic gates using 3 different models](https://github.com/AnjPR/iVerilog-ktu/tree/main/gates)
 #### • [Basic flip-flops](https://github.com/AnjPR/iVerilog-ktu/tree/main/basic_flipflops) <sub>  D,JK,SR,T</sub>
 #### • [Half-Adder using 3 models](https://github.com/AnjPR/iVerilog-ktu/tree/main/adder)
